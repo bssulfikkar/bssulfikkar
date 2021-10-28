@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bssulfikkar
 - 👀 I’m interested in working with data and data engineering tasks
-- 🌱 I’m currently learning databricks optimisations and azure devops
-- 💞️ I’m looking to collaborate on spark and python
+- 💞️ I have been working with databricks , pyspark azure devops and python for last 4 years
 - 📫 How to reach me 4790495585
 
 <!---
